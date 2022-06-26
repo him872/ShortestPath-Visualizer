@@ -1,0 +1,19 @@
+.bgcolors{
+  background-color: #FFF8F3;
+}
+.grid {
+  margin: 50px 0 0;
+}
+.visualize{
+  background-color: aqua;
+  border-radius: 4px;
+  padding: 12px 28px;
+  margin-top: 30px;
+  transition-duration: 0.4s;
+  font-size: 16px;
+}
+
+.visualize:hover {
+  background-color: #37E2D5;
+  color: white;
+}
